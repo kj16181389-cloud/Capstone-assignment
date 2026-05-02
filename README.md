@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Capstone-assignment
+A React-based web application that simulates and manages traffic flow in urban environments. The project provides an interactive interface to visualize traffic signals, vehicle movement, and congestion patterns. It demonstrates how modern frontend technologies can be used to build scalable, responsive, and user-friendly traffic management dashboard
+>>>>>>> 069b4436085663463fc5fe24ab6cb6cf9d175d00
